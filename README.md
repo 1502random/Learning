@@ -1,2 +1,2 @@
 # Learning Github
-Learning Githun and coding.
+Learning Github and coding.
