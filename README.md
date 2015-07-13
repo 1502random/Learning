@@ -1,2 +1,2 @@
-# Learning
-A repository for learning github.
+# Learning Github
+Learning Githun and coding.
